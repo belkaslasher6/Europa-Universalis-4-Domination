@@ -204,4 +204,4 @@ This repository serves as the official landing page for Europa Universalis IV: D
 **Get the most recent version of Europa Universalis IV: Domination today!**
 
 ---
-**Last updated:** 2026-11-09 18:30:22 UTC
+**Last updated:** 2026-11-10 01:55:00 UTC
